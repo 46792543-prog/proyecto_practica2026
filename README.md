@@ -3,6 +3,7 @@
 # 2026
 # EMAIL: 46792543@POPULORUMJUJUY.AR
 # USER: 46792543-PROG
+## Profesores:
 ## PROBLEMA GENERAL
 ---El local de comida actualmente no cuenta con una plataforma digital propia que permita mostrar sus productos, promociones y datos relevantes de manera clara y accesible.
 Esto genera dificultades para los clientes al momento de conocer la oferta disponible, realizar pedidos de forma rápida y confiable, y obtener información como ubicación y horarios.
