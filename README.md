@@ -43,23 +43,23 @@ Panel administrativo complejo (puede plantearse como mejora futura).
 
 #  Cronograma de actividades 
 ACTIVIDADES:
-REALIZAR ENTREVISTA 
-DEFINIR EL PROBLEMA 
-DEFINIR OBJETIVOS 
-DISEÑO DE BASE DE DATOS 
-DISEÑO DE INTERZAS 
+-REALIZAR ENTREVISTA 
+-DEFINIR EL PROBLEMA 
+-DEFINIR OBJETIVOS 
+-DISEÑO DE BASE DE DATOS 
+-DISEÑO DE INTERZAS 
 
 # Estudio de factibilidad 
 # Técnica :
-El proyecto es técnicamente viable, ya que se cuento con una computadora capaz de ejecutar las herramientas necesarias como XAMMP/MySQL y dispongo con el conocimiento requerido para crea tablas, relaciones, consultas y mantener la integridad de los datos.
+--El proyecto es técnicamente viable, ya que se cuento con una computadora capaz de ejecutar las herramientas necesarias como XAMMP/MySQL y dispongo con el conocimiento requerido para crea tablas, relaciones, consultas y mantener la integridad de los datos.
 
 # Económica:
-La factibilidad  económica del proyecto es positiva, ya que su desarrollo no requiere inversión económica adicional. Todo el Software utilizado es gratuito, como XAMPP, MySQL y las herramientas de diseño de diagramas. 
+--La factibilidad  económica del proyecto es positiva, ya que su desarrollo no requiere inversión económica adicional. Todo el Software utilizado es gratuito, como XAMPP, MySQL y las herramientas de diseño de diagramas. 
 
 # Operativa :
-La factibilidad operativa del proyecto resulta favorable. El sistema web propuesto es sencillo de utilizar y cuenta con una interfaz clara y organizada, diseñada para que tanto el emprendedor como los clientes puedan interactuar sin dificultad.
+--La factibilidad operativa del proyecto resulta favorable. El sistema web propuesto es sencillo de utilizar y cuenta con una interfaz clara y organizada, diseñada para que tanto el emprendedor como los clientes puedan interactuar sin dificultad.
 
-El sitio permitirá gestionar de manera básica los pedidos, visualizar el catálogo de productos, acceder a promociones y mantener comunicación directa mediante WhatsApp y redes sociales. Estas funciones se integran de forma intuitiva, evitando la necesidad de conocimientos técnicos avanzados para su uso.
+--El sitio permitirá gestionar de manera básica los pedidos, visualizar el catálogo de productos, acceder a promociones y mantener comunicación directa mediante WhatsApp y redes sociales. Estas funciones se integran de forma intuitiva, evitando la necesidad de conocimientos técnicos avanzados para su uso.
 Para garantizar un aprovechamiento adecuado del sistema, se contempla realizar una breve capacitación al responsable del emprendimiento, de manera que pueda familiarizarse con las funciones principales: carga y actualización de productos, revisión de pedidos y administración de la información del local.
 # Requerimientos Funcionales 
 
@@ -67,3 +67,14 @@ Para garantizar un aprovechamiento adecuado del sistema, se contempla realizar u
 
 # Requisitos funcionales
 
+
+## Script de cálculo de edad
+
+Este proyecto incluye un script llamado [edad.py](edad.py) que calcula la edad de una persona a partir de su fecha de nacimiento.
+
+### Ejecución
+1. Para ejecutarlo
+2. abre la terminal en la carpeta del proyecto 
+3. escribe:
+```bash
+python edad.py
